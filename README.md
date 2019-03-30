@@ -17,7 +17,7 @@ Every Wednesday: 6:30 - 8:30pm
 * [March 17](https://github.com/the-bright-web/cohort-01/wiki/march-17) - Sun
 * March 20 - Wed
 * March 27 - Wed
-* March 31 - Sun
+* [March 31](https://github.com/the-bright-web/cohort-01/wiki/march-31) - Sun
 * April 3  - Wed
 * April 10 - Wed
 * April 14 - Sun
