@@ -1,13 +1,14 @@
 # ° . The Bright Web . °
-![alt text](bright.gif)
 
 Antithesis to the dark web. Resistance in software looks like this. Learn how to code and create useful things in the process :)
 
 Classes are donation based//free. If you feel called to defend your community via software or just wanna learn how to code in a POC space, this is for you! ✨ Safe place to learn without judgement, no experience necessary.
 
+![alt text](bright.gif)
+
 ## Schedule (10 wks)
 
-*Click for curriculum resources*
+*Click date for curriculum resources & homework*
 
 Every other Sunday: 11am - 3pm
 <br>
